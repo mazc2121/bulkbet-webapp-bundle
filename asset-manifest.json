@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.0020155a.css",
-    "main.js": "/static/js/main.17451e3a.js",
+    "main.js": "/static/js/main.66d7517c.js",
     "index.html": "/index.html",
     "static/media/betFailedIcon.svg": "/static/media/betFailedIcon.ce619238c6ce5e497cc098b205df277d.svg",
     "static/media/betSuccessIcon.svg": "/static/media/betSuccessIcon.b1a40231a82bf84ad75de487449ecf62.svg",
     "main.0020155a.css.map": "/static/css/main.0020155a.css.map",
-    "main.17451e3a.js.map": "/static/js/main.17451e3a.js.map"
+    "main.66d7517c.js.map": "/static/js/main.66d7517c.js.map"
   },
   "entrypoints": [
     "static/css/main.0020155a.css",
-    "static/js/main.17451e3a.js"
+    "static/js/main.66d7517c.js"
   ]
 }
